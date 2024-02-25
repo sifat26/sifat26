@@ -1,5 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifat26&label=Profile%20views&color=0e75b6&style=flat" alt="sifat26" /> </p>
-### Hi there 👋, I'm Tanvir Ahmmed Sifat
+<p>### Hi there 👋, I'm Tanvir Ahmmed Sifat</p>
+
 #### I am web development learner
 
 Skills: JS / HTML / CSS / C

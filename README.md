@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning **Web Development**
-
+<img width="100%"  src="https://i.postimg.cc/j2LzXqsr/Purple-and-Pink-Bold-Business-Linked-In-Article-Cover-Image-1.jpg" />
 - 📫 How to reach me **sifatict26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

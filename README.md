@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Web Development Learner</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifat26&label=Profile%20views&color=0e75b6&style=flat" alt="sifat26" /> </p>
 - 🌱 I’m currently learning **Web Development**
-- 📫 How to reach me **sifatict26@gmail.com**
+- 📫 How to reach me **[sifatict26@gmail.com](sifatict26@gmail.com)**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tanvirahmmedsi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanvirahmmedsi2" height="30" width="40" /></a>

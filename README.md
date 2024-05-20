@@ -1,5 +1,5 @@
 <img width="100%"  src="https://i.postimg.cc/j2LzXqsr/Purple-and-Pink-Bold-Business-Linked-In-Article-Cover-Image-1.jpg" />
-<img src="https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=900&size=30&pause=1050&color=4FF764&random=false&width=437&lines=Hi!+I+am+Tanvir+Ahmmed+Siat" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=900&size=35&duration=4936&pause=1050&color=4CF7CE&random=false&width=437&lines=Hi!+I+am+Sifat" alt="Typing SVG" />
 <h3 align="center">A passionate Web Development Learner</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifat26&label=Profile%20views&color=0e75b6&style=flat" alt="sifat26" /> </p>
 - 🌱 I’m currently learning **Web Development**

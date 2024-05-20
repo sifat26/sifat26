@@ -1,10 +1,20 @@
 <img width="100%"  src="https://i.postimg.cc/j2LzXqsr/Purple-and-Pink-Bold-Business-Linked-In-Article-Cover-Image-1.jpg" />
-<img src="https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=900&size=35&duration=4936&pause=1050&color=4CF7CE&random=false&width=437&lines=Hi!+I+am+Sifat" alt="Typing SVG" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tanvir+Ahmmed+Sifat!;" />
+</h1>
 <h3 align="center">A passionate Web Development Learner</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifat26&label=Profile%20views&color=0e75b6&style=flat" alt="sifat26" /> </p>
 - 🌱 I’m currently learning **Web Development**
 
-- 📫 How to reach me **sifatict26@gmail.com**
+<div align="center"> 
+  <a href="mailto:sifatict26@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/sifat26" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tanvirahmmedsi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanvirahmmedsi2" height="30" width="40" /></a>

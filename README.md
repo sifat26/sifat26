@@ -1,10 +1,11 @@
 <img width="100%"  src="https://i.postimg.cc/j2LzXqsr/Purple-and-Pink-Bold-Business-Linked-In-Article-Cover-Image-1.jpg" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sifat26&label=Profile%20views&color=0e75b6&style=flat" alt="sifat26" /> </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tanvir+Ahmmed+Sifat!;" />
 </h1>
-<h3 align="center">A passionate Web Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sifat26&label=Profile%20views&color=0e75b6&style=flat" alt="sifat26" /> </p>
-- 🌱 I’m currently learning **Web Development**
+<h2 align="center">A passionate Web Developer</h2>
+
+<h3 align="center">- 🌱 I’m currently learning **Web Development**</h3>
 
 <div align="center"> 
   <a href="mailto:sifatict26@gmail.com">

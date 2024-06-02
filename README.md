@@ -5,7 +5,7 @@
 </h1>
 <h2 align="center">A passionate Web Developer</h2>
 
-<h3 align="center">- 🌱 I’m currently learning **Web Development**</h3>
+<h3 align="center">- 🌱 I’m currently learning **Web Development**</h3> </br>
 
 <div align="center"> 
   <a href="mailto:sifatict26@gmail.com">

@@ -5,13 +5,16 @@
 <br/>
 
 <div align="center">
+  <a href="https://tanvir-sifat.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://github.com/sifat26">
-    <img src="https://komarev.com/ghpvc/?username=sifat26&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=sifat26&amp;label=Profile%20views&amp;color=0e75b6&amp;style=for-the-badge" alt="Profile Views" />
   </a>
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tanvir+Ahmmed+Sifat!;" alt="Typing Greeting" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Hi+There!+👋;+I'm+Tanvir+Ahmmed+Sifat!;" alt="Typing Greeting" />
 </h1>
 
 <h3 align="center">Innovating at the intersection of Web Development and Deep Learning</h3>
@@ -84,15 +87,21 @@
   <table border="0" align="center">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=sifat26&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="sifat26's GitHub stats" />
+        <a href="https://github.com/sifat26">
+          <img src="https://github-readme-stats.vercel.app/api?username=sifat26&amp;show_icons=true&amp;theme=radical&amp;border_radius=10" alt="sifat26's GitHub stats" />
+        </a>
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sifat26&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="sifat26's Top Languages" />
+        <a href="https://github.com/sifat26">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sifat26&amp;langs_count=8&amp;layout=compact&amp;theme=radical&amp;border_radius=10&amp;size_weight=0.5&amp;count_weight=0.5&amp;exclude_repo=github-readme-stats" alt="sifat26's Top Languages" />
+        </a>
       </td>
     </tr>
   </table>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=sifat26&theme=react&border_radius=10" alt="sifat26's GitHub Streak" />
+  <a href="https://github.com/sifat26">
+    <img src="https://streak-stats.demolab.com?user=sifat26&amp;theme=radical&amp;border_radius=10" alt="sifat26's GitHub Streak" />
+  </a>
 </div>
 
 <br/>

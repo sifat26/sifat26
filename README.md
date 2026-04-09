@@ -27,7 +27,8 @@
   <ul>
     <li>🚀 I’m currently focused on building robust web applications using <b>Next.js</b> and <b>Angular</b>.</li>
     <li>💼 Working on laying the foundations to launch my own software development agency.</li>
-    <li>🧠 Deeply engaged in academic research, specifically utilizing deep learning models for healthcare and lung cancer detection.</li>
+    <li>🧠 Deeply engaged in academic research, utilizing <b>Python</b>, <b>Pandas</b>, <b>TensorFlow</b>, and <b>Keras</b> to train CNN models for healthcare and lung cancer detection.</li>
+    <li>☁️ Experienced in server management and deployment across <b>Vercel</b>, <b>cPanel</b>, and <b>IIS Server</b>.</li>
     <li>🔐 Exploring the fascinating world of Advanced Cryptography, quantum computing threats, and Wireless Sensor Networks (WSNs).</li>
     <li>🍿 When I'm not coding or researching, you can probably find me watching movies with powerful social and emotional messages.</li>
     <li>📫 Reach out to me: <a href="mailto:sifatict26@gmail.com">sifatict26@gmail.com</a></li>
@@ -52,30 +53,52 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular" /><br>Angular
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br>Java
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /><br>C++
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" /><br>HTML/CSS
     </td>
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind" /><br>Tailwind
     </td>
+  </tr>
+  
+  <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" /><br>MySQL
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" /><br>Git
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" /><br>Pandas
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" /><br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="40" height="40" alt="Keras" /><br>Keras
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /><br>C++
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" /><br>MySQL
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /><br>Linux
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5/CSS3" /><br>HTML/CSS
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" /><br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/vercel/000000/ffffff" width="40" height="40" alt="Vercel" /><br>Vercel
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/cpanel/FF6C2C" width="40" height="40" alt="cPanel" /><br>cPanel
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/fluency/48/server.png" width="40" height="40" alt="IIS Server" /><br>IIS Server
     </td>
   </tr>
 </table>

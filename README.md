@@ -25,7 +25,7 @@
   <summary><b>✨ Click to learn more about me!</b></summary>
   <br/>
   <ul>
-    <li>🚀 I’m currently focused on building robust web applications using <b>Next.js</b> and <b>Angular</b>.</li>
+    <li>🚀 I’m currently focused on building robust web applications using <b>Next.js</b>, <b>Node.js</b>, and <b>Angular</b>.</li>
     <li>💼 Working on laying the foundations to launch my own software development agency.</li>
     <li>🧠 Deeply engaged in academic research, utilizing <b>Python</b>, <b>Pandas</b>, <b>TensorFlow</b>, and <b>Keras</b> to train CNN models for healthcare and lung cancer detection.</li>
     <li>☁️ Experienced in server management and deployment across <b>Vercel</b>, <b>cPanel</b>, and <b>IIS Server</b>.</li>
@@ -38,70 +38,56 @@
 <br/>
 
 <h3 align="left">🛠️ Languages and Tools</h3>
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" /><br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" /><br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular" /><br>Angular
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" /><br>HTML/CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind" /><br>Tailwind
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" /><br>Pandas
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" /><br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="40" height="40" alt="Keras" /><br>Keras
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /><br>C++
-    </td>
-  </tr>
 
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" /><br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /><br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" /><br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/vercel/000000/ffffff" width="40" height="40" alt="Vercel" /><br>Vercel
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/cpanel/FF6C2C" width="40" height="40" alt="cPanel" /><br>cPanel
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/fluency/48/server.png" width="40" height="40" alt="IIS Server" /><br>IIS Server
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <b>🌐 Frontend & Design</b><br/><br/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" /></a>&nbsp;
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" title="React" /></a>&nbsp;
+  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" title="Next.js" /></a>&nbsp;
+  <a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular" title="Angular" /></a>&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" title="HTML5" /></a>&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" /></a>&nbsp;
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" title="Bootstrap" /></a>&nbsp;
+  <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" title="Figma" /></a>
+</p>
+
+<p align="left">
+  <b>⚙️ Backend & Database</b><br/><br/>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" title="Node.js" /></a>&nbsp;
+  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express.js" title="Express.js" /></a>&nbsp;
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" title="Firebase" /></a>&nbsp;
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" title="MySQL" /></a>
+</p>
+
+<p align="left">
+  <b>🧠 Machine Learning & Core Languages</b><br/><br/>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" /></a>&nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" title="Pandas" /></a>&nbsp;
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" title="TensorFlow" /></a>&nbsp;
+  <a href="https://keras.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="40" height="40" alt="Keras" title="Keras" /></a>&nbsp;
+  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java" /></a>&nbsp;
+  <a href="https://cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" title="C++" /></a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" title="C" /></a>
+</p>
+
+<p align="left">
+  <b>🚀 Deployment & DevOps</b><br/><br/>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" title="Git" /></a>&nbsp;
+  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub" /></a>&nbsp;
+  <a href="https://bitbucket.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" width="40" height="40" alt="Bitbucket" title="Bitbucket" /></a>&nbsp;
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux" /></a>&nbsp;
+  <a href="https://vercel.com/" target="_blank"><img src="https://cdn.simpleicons.org/vercel/000000/ffffff" width="40" height="40" alt="Vercel" title="Vercel" /></a>&nbsp;
+  <a href="https://cpanel.net/" target="_blank"><img src="https://cdn.simpleicons.org/cpanel/FF6C2C" width="40" height="40" alt="cPanel" title="cPanel" /></a>&nbsp;
+  <a href="https://www.iis.net/" target="_blank"><img src="https://img.icons8.com/fluency/48/server.png" width="40" height="40" alt="IIS Server" title="IIS Server" /></a>
+</p>
+
+<p align="left">
+  <b>🧰 Software & Utilities</b><br/><br/>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" title="VS Code" /></a>&nbsp;
+  <a href="https://www.notion.so/" target="_blank"><img src="https://cdn.simpleicons.org/notion/000000/ffffff" width="40" height="40" alt="Notion" title="Notion" /></a>&nbsp;
+  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman" title="Postman" /></a>&nbsp;
+  <a href="https://xkcd.com/353/" target="_blank"><img src="https://img.shields.io/badge/Antigravity-import-blue?style=for-the-badge&logo=python&logoColor=white" height="40" alt="import antigravity" title="Python Antigravity Module" /></a>
+</p>
 
 <br/>
 

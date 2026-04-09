@@ -1,41 +1,114 @@
-<img width="100%"  src="https://i.postimg.cc/j2LzXqsr/Purple-and-Pink-Bold-Business-Linked-In-Article-Cover-Image-1.jpg" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sifat26&label=Profile%20views&color=0e75b6&style=flat" alt="sifat26" /> </p>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tanvir+Ahmmed+Sifat!;" />
-</h1>
-<h2 align="center">A passionate Web Developer</h2></br>
-
-<h3 align="center">- 🌱 I’m currently learning **Web Development**</h3> </br>
-
-<div align="center"> 
-  <a href="mailto:sifatict26@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/sifat26" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-
+<div align="center">
+  <img width="100%" src="https://i.postimg.cc/j2LzXqsr/Purple-and-Pink-Bold-Business-Linked-In-Article-Cover-Image-1.jpg" alt="Profile Cover" />
 </div>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tanvirahmmedsi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanvirahmmedsi2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sifat26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sifat26" height="30" width="40" /></a>
-<a href="https://fb.com/sifat.7847" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sifat.7847" height="30" width="40" /></a>
-<a href="https://instagram.com/tanvir_ahmmed_sifat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanvir_ahmmed_sifat" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sifat26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sifat26" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<br/>
 
-<hr />
+<div align="center">
+  <a href="https://github.com/sifat26">
+    <img src="https://komarev.com/ghpvc/?username=sifat26&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br />
-<div align=center>
-<img src="https://streak-stats.demolab.com?user=sifat26&theme=whatsapp-dark2" alt="GitHub Streak" /> <br />
-    
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=sifat26&count_private=true&show_icons=true&theme=blueberry&rank_icon=github&border_radius=10" alt="readme stats" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tanvir+Ahmmed+Sifat!;" alt="Typing Greeting" />
+</h1>
+
+<h3 align="center">Innovating at the intersection of Web Development and Deep Learning</h3>
+
+<hr/>
+
+<details>
+  <summary><b>✨ Click to learn more about me!</b></summary>
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sifat26&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <ul>
+    <li>🚀 I’m currently focused on building robust web applications using <b>Next.js</b> and <b>Angular</b>.</li>
+    <li>💼 Working on laying the foundations to launch my own software development agency.</li>
+    <li>🧠 Deeply engaged in academic research, specifically utilizing deep learning models for healthcare and lung cancer detection.</li>
+    <li>🔐 Exploring the fascinating world of Advanced Cryptography, quantum computing threats, and Wireless Sensor Networks (WSNs).</li>
+    <li>🍿 When I'm not coding or researching, you can probably find me watching movies with powerful social and emotional messages.</li>
+    <li>📫 Reach out to me: <a href="mailto:sifatict26@gmail.com">sifatict26@gmail.com</a></li>
+  </ul>
+</details>
+
+<br/>
+
+<h3 align="left">🛠️ Languages and Tools</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" /><br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" /><br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular" /><br>Angular
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br>Java
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /><br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind" /><br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" /><br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" /><br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /><br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5/CSS3" /><br>HTML/CSS
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h2 align="center">⚡ GitHub Analytics ⚡</h2>
+<div align="center">
+  <table border="0" align="center">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=sifat26&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="sifat26's GitHub stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sifat26&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="sifat26's Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=sifat26&theme=react&border_radius=10" alt="sifat26's GitHub Streak" />
+</div>
+
+<br/>
+
+<h3 align="center">🤝 Let's Connect</h3>
+<div align="center">
+  <a href="https://linkedin.com/in/sifat26" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sifatict26@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://twitter.com/tanvirahmmedsi2" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://codeforces.com/profile/sifat26" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
 </div>
